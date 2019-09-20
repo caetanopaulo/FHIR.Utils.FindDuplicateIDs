@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4C86429F-21B5-46FB-AC53-4EBE602CCF4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FHIR.Utils.FindDuplicateIDs/Program.cs">
+    <Files>
+      <File FileName="FHIR.Utils.FindDuplicateIDs/Program.cs" Line="4" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FHIR.Utils.FindDuplicateIDs" expanded="True">
+            <Node name="FHIR.Utils.FindDuplicateIDs" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FHIR.Utils.FindDuplicateIDs FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
