@@ -27,4 +27,9 @@ cd bin/Release/netcoreapp2.2
 dotnet FHIR.Utils.FindDuplicateIDs.dll <path-for-fhir-resources>
 ```
 
+## Example
 
+```bash
+cd publish
+dotnet FHIR.Utils.FindDuplicateIDs.dll ../FHIR.Utils.FindDuplicateIDs/Resources/nictiz.fhir.nl.stu3.zib2017-1.2.0/
+```
